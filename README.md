@@ -8,10 +8,7 @@ This repository contains a collection of C++ programs that demonstrate the use o
 
 - Array processing (e.g., summing, filtering, squaring elements)
 - String manipulation (e.g., word extraction, character-based counting)
-- Sorting small sets of numbers
 - Use of inline x86 assembly for performance optimization
-- Simple console-based input/output
-- Multiple implementation variants for some tasks to showcase different assembly techniques
 
 ## 🌐 Program Descriptions
 
