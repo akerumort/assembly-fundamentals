@@ -13,10 +13,6 @@ The program:
    - Divide the sum by 10 to compute the average.
 2. Outputs the arithmetic average to the console.
 
-## Usage
-
-Compile and run the program using a C++ compiler supporting inline assembly (e.g., MSVC or GCC).
-
 **Example Output:**
 
 ```
