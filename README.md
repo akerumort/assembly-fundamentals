@@ -1,4 +1,4 @@
-# assembly-fundamentals
+<h1 align="center" id="title">assembly-fundamentals</h1>
 
 <p align="center"><img src="https://socialify.git.ci/akerumort/assembly-fundamentals/image?description=1&font=Jost&language=1&name=1&owner=1&theme=Light"></p>
 
